@@ -1,5 +1,5 @@
-/* @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/google-sans.css"); */
-@import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/product-sans.css");
+@import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/google-sans.css");
+/* @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/product-sans.css"); */
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/icons.css");
 :root {
   --app-font: "Google Sans";
@@ -11632,9 +11632,9 @@ body:active .menu_dc52c6:not(:active) {
   --nav-container-padding: 4px;
   --nav-button-height: 24px;
   --nav-button-radius: 12px;
-  grid-template-rows: calc(
-      var(--nav-button-height) + var(--nav-container-padding) * 2
-    ) auto;
+  grid-template-rows:
+    calc(var(--nav-button-height) + var(--nav-container-padding) * 2)
+    auto;
   grid-row-gap: 16px;
 }
 

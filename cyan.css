@@ -1,0 +1,16 @@
+@import url("https://dablulite.github.io/Cyan/import2.css");
+:root {
+  --cyan-background-primary: hsla(
+    0deg 0% var(--cyan-background-lightness) / 40%
+  );
+  --cyan-elevation-shadow: 0 0 0 1.5px var(--cyan-accent-color),
+    0 2px 10px 0 rgb(0 0 0 / 60%);
+  --cyan-font: "Montserrat", "Open Sans";
+  --cyan-background-img: url(https://dablulite.github.io/Cyan/cyan-waves.png);
+  --cyan-accent-color: #009f88;
+  --cyan-blur-radius: 10px;
+  --cyan-status-mask-background: var(--profile-body-background-color);
+  --cyan-text-shadow: 1;
+  --window-margin: 8;
+  --window-border-radius: 8px;
+}

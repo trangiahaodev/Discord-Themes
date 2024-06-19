@@ -59,7 +59,7 @@
   --textshadow: transparent; /* default: transparent				(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)		*/
 
   /* --background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/_res/background.jpg); */
-  --background: url(https://github.com/trangiahaodev/Discord-Themes/blob/master/thomas-shelby-holding-grace-9uvyjdb37mvtxd0x.jpg); /* general background image					*/
+  --background: url(https://trangiahaodev.github.io/Discord-Themes/bg-shelby.jpg); /* general background image					*/
   --backgroundposition: center; /* default: center				(position of background - values: [center/top/right/bottom/left])			*/
   --backgroundsize: cover; /* default: cover				(sizefit of background - values: [cover/contain/auto])					*/
   --backgroundblur: 0; /* default: 0					(blur in px, only works when --background is set to an image)				*/

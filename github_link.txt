@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/LeafyLuigi/discord-themes/master/pyrite/pyrite-fleur-jaune.theme.css
+https://raw.githubusercontent.com/LeafyLuigi/discord-themes/master/pyrite/pyrite-ocean-bleu.theme.css

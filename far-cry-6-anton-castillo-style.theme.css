@@ -9,7 +9,7 @@
 @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
 @import url("https://trangiahaodev.github.io/Discord-Themes/HorizontalServerList.css");
 :root {
-  --background-image: url("https://trangiahaodev.github.io/Discord-Themes/bg-shelby.jpg");
+  --background-image: url("https://trangiahaodev.github.io/Discord-Themes/michael_corleone.jpg");
   --background-image-blur: 0px;
   --background-image-size: cover;
   --background-image-position: center center;
@@ -45,7 +45,7 @@
   --rs-avatar-shape: 50%;
   --rs-online-color: #43b581;
   --rs-idle-color: #faa61a;
-  --rs-dnd-color: #f04747;
+  --rs-dnd-color: #059dc0;
   --rs-offline-color: #636b75;
   --rs-streaming-color: #643da7;
   --rs-invisible-color: #747f8d;

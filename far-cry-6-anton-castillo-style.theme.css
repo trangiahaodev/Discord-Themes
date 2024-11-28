@@ -9,7 +9,7 @@
 @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
 @import url("https://trangiahaodev.github.io/Discord-Themes/HorizontalServerList.css");
 :root {
-  --background-image: url("https://trangiahaodev.github.io/Discord-Themes/michael_corleone.jpg");
+  --background-image: url("https://trangiahaodev.github.io/Discord-Themes/michael.jpg");
   --background-image-blur: 0px;
   --background-image-size: cover;
   --background-image-position: center center;
@@ -27,7 +27,7 @@
   --popout-modal-brightness: 0.7;
   --gradient-primary: 165, 42, 42, 100;
   --gradient-secondary: 2, 0, 36, 100;
-  --scrollbar-colour: rgba(220, 20, 60 0.048);
+  --scrollbar-colour: rgba(20, 202, 219, 0.908);
   --link-colour: #56abf1;
   --gradient-direction: 320deg;
   --tint-colour: 255, 51, 159;
